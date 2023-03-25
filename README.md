@@ -2,7 +2,7 @@
 - 👀 I’m interested in making games that move their audience with creative people.
 - 🌱 I’m currently learning more project management in the game development space. 
 - 💞️ I’m looking to collaborate on a 2D metroidvania project in development "Rambo The Cat"
-- 📫 You can reach me through ben@sixtyseven.studio
+- 📫 You can reach me through ben@papermountain.games
 - "Rambo The Cat: Coming soon..."
 
 <!---
